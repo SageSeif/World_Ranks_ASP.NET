@@ -1,0 +1,152 @@
+﻿body {
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    gap: 24px;
+    background-color: #236d8a;
+}
+
+.Left_Container {
+    grid-column: 1/ span 4;
+}
+
+.Right_Container {
+    grid-column: 5/ span 8;
+}
+
+
+
+
+
+.Left_Panel {
+    padding: 20px;
+    border-radius: 8px;
+    /*box-shadow: var(--box-shadow);
+    background-color: var(--background-color-light);
+    color: var(--text-color);*/
+}
+    .Left_Panel img {
+        width: 100%;
+        border-radius: 4px;
+    }
+
+.Country_Name {
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 0;
+    color: white;
+}
+
+.Continent {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 300;
+    margin-top: 1px;
+    margin-bottom: 27px;
+    color: white;
+}
+
+.overview_numbers {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    text-align: center;
+}
+
+.Label {
+    color: white;
+    font-size: 14px;
+}
+
+.Value {
+    color: white;
+}
+
+
+.Right_Panel {
+    /*background-color: var(--background-color-light);
+    box-shadow: var(--box-shadow);
+    color: var(--text-color);*/
+    border-radius: 8px;
+}
+
+.Country_Details {
+    padding: 20px;
+    margin: 0;
+    padding-bottom: 0;
+    text-align: center;
+}
+
+.Detail_Row {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    border-bottom: 1px solid;
+    color: #a0a0a0;
+}
+
+.Border_Row{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    color: #a0a0a0;
+}
+
+.Borders_All {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 24px;
+    margin: 0 0;
+}
+
+.Detail_Label {
+    color: aliceblue;
+}
+
+.Detail_Value {
+    color: aliceblue;
+}
+
+
+
+.details_panel_borders_container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 24px;
+    margin: 0 0;
+
+}
+
+.details_panel_borders {
+    padding: 20px;
+}
+
+.BorderImg {
+    width: 100%;
+    border-radius: 4px;
+}
+
+.details_panel_borders_country {
+    text-align: center;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.details_panel_borders_label {
+    /*color: var(--text-color-secondary);*/ 
+    margin-bottom: 20px;
+}
+
+.MainHeader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 32px;
+    margin-top: 20px;
+}
+
+.backHome {
+    cursor: default;
+}

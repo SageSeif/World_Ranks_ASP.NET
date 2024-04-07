@@ -1,0 +1,354 @@
+/* _content/WorldInfo/Pages/About.cshtml.rz.scp.css */
+p[b-qd9fxgbmeo] {
+    color: green;
+}
+
+body[b-qd9fxgbmeo] {
+    background-color: #252329;
+}
+
+.CountryStyling[b-qd9fxgbmeo] {
+    display: flex;
+    padding: 20px;
+    text-align: center;
+    background-color: var(--background-color-light);
+    border-radius: 8px;
+    margin-bottom: 16px;
+    box-shadow: var(--box-shadow);
+    font-weight: 500;
+    transition: transform 200ms ease-in-out, box-shadow 200ms ease-in-out;
+    color: aliceblue;
+}
+
+ul[b-qd9fxgbmeo] {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    align-content: center;
+}
+
+li[b-qd9fxgbmeo] {
+    align-content: center;
+}
+
+/* Set a fixed height for the container */
+.scrollable-list[b-qd9fxgbmeo] {
+    max-height: 65vh; /* Adjust the height as needed */
+    overflow-y: scroll; /* Enable vertical scrolling */
+    border: 1px solid #0000; /* Optional: Add border for visual clarity */
+}
+
+    /* Custom scrollbar styling */
+    .scrollable-list[b-qd9fxgbmeo]::-webkit-scrollbar {
+        width: 0rem;
+        border-radius: 0rem;
+    }
+
+    .scrollable-list[b-qd9fxgbmeo]::-webkit-scrollbar-thumb {
+        border-radius: 0.25rem;
+        background-color: gray;
+    }
+
+.heading[b-qd9fxgbmeo] {
+    display: flex;
+}
+
+.heading_flag[b-qd9fxgbmeo] {
+    flex: 1;
+    padding: 20px;
+    color: #404040;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-color: #236d8a;
+    box-shadow: green;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background: rgba(0, 151, 19, 0);
+    font-family: "Noto Sans", sans-serif;
+    font-size: 18pt;
+}
+
+.heading_name[b-qd9fxgbmeo], .heading_population[b-qd9fxgbmeo], .heading_area[b-qd9fxgbmeo] {
+    flex: 4;
+    padding: 20px;
+    color: #404040;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-color: #236d8a;
+    box-shadow: green;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background: rgba(0, 151, 19, 0);
+    font-family: "Noto Sans", sans-serif;
+    font-size: 18pt;
+}
+
+.heading_name[b-qd9fxgbmeo] {
+    margin-left: 0px;
+}
+
+
+.example[b-qd9fxgbmeo] {
+}
+
+.CountryFlag[b-qd9fxgbmeo] {
+    width: 100px;
+    height: 50px;
+}
+
+.Countryrow[b-qd9fxgbmeo] {
+    display: flex;
+    padding: 20px;
+    text-align: center;
+    background-color: #236d8a;
+    border-radius: 8px;
+    margin-bottom: 16px;
+    font-weight: 500;
+    transition: transform 200ms ease-in-out, box-shadow 200ms ease-in-out;
+    margin-top: 5px;
+    width: 100%;
+    box-shadow: 0 1px 3px rgb(0, 0, 0);
+}
+
+    .Countryrow:hover[b-qd9fxgbmeo] {
+        transform: translateY(-4px);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+
+.CountryName[b-qd9fxgbmeo], .CountryArea[b-qd9fxgbmeo], .CountryPopulation[b-qd9fxgbmeo] {
+    flex: 4;
+    text-align: center;
+    color: white;
+    font-size: 18pt;
+    justify-content: center;
+}
+
+
+
+.CountryFlagContainer[b-qd9fxgbmeo] {
+    flex: 1;
+}
+
+.MainHeader[b-qd9fxgbmeo] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 32px;
+    margin-top: 20px;
+}
+
+a[b-qd9fxgbmeo] {
+    text-decoration: none;
+    cursor: default;
+}
+/* _content/WorldInfo/Pages/CountryDetails.cshtml.rz.scp.css */
+body[b-07v244p0a2] {
+}
+
+.container[b-07v244p0a2] {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    gap: 24px;
+    background-color: #236d8a;
+}
+
+.Left_Container[b-07v244p0a2] {
+    grid-column: 1/ span 4;
+}
+
+.Right_Container[b-07v244p0a2] {
+    grid-column: 5/ span 8;
+}
+
+
+
+
+
+.Left_Panel[b-07v244p0a2] {
+    padding: 20px;
+    border-radius: 8px;
+    /*box-shadow: var(--box-shadow);
+    background-color: var(--background-color-light);
+    color: var(--text-color);*/
+}
+    .Left_Panel img[b-07v244p0a2] {
+        width: 100%;
+        border-radius: 4px;
+    }
+
+.Country_Name[b-07v244p0a2] {
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 0;
+    color: white;
+}
+
+.Continent[b-07v244p0a2] {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 300;
+    margin-top: 1px;
+    margin-bottom: 27px;
+    color: white;
+}
+
+.overview_numbers[b-07v244p0a2] {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    text-align: center;
+}
+
+.Label[b-07v244p0a2] {
+    color: white;
+    font-size: 14px;
+}
+
+.Value[b-07v244p0a2] {
+    color: white;
+}
+
+
+.Right_Panel[b-07v244p0a2] {
+    /*background-color: var(--background-color-light);
+    box-shadow: var(--box-shadow);
+    color: var(--text-color);*/
+    border-radius: 8px;
+}
+
+.Country_Details[b-07v244p0a2] {
+    padding: 20px;
+    margin: 0;
+    padding-bottom: 0;
+    text-align: center;
+}
+
+.Detail_Row[b-07v244p0a2] {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    border-bottom: 1px solid;
+    color: #a0a0a0;
+}
+
+.Border_Row[b-07v244p0a2]{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    color: #a0a0a0;
+}
+
+.Borders_All[b-07v244p0a2] {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 24px;
+    margin: 0 0;
+}
+
+.Detail_Label[b-07v244p0a2] {
+    color: aliceblue;
+}
+
+.Detail_Value[b-07v244p0a2] {
+    color: aliceblue;
+}
+
+
+
+.details_panel_borders_container[b-07v244p0a2] {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 24px;
+    margin: 0 0;
+
+}
+
+.details_panel_borders[b-07v244p0a2] {
+    padding: 20px;
+}
+
+.BorderImg[b-07v244p0a2] {
+    width: 100%;
+    border-radius: 4px;
+}
+
+.details_panel_borders_country[b-07v244p0a2] {
+    text-align: center;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.details_panel_borders_label[b-07v244p0a2] {
+    /*color: var(--text-color-secondary);*/ 
+    margin-bottom: 20px;
+}
+
+.MainHeader[b-07v244p0a2] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 32px;
+    margin-top: 20px;
+}
+
+.backHome[b-07v244p0a2] {
+    cursor: default;
+}
+/* _content/WorldInfo/Pages/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-8k7zu2lucn] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-8k7zu2lucn] {
+  color: #0077cc;
+}
+
+.btn-primary[b-8k7zu2lucn] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-8k7zu2lucn], .nav-pills .show > .nav-link[b-8k7zu2lucn] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-8k7zu2lucn] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-8k7zu2lucn] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-8k7zu2lucn] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-8k7zu2lucn] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-8k7zu2lucn] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

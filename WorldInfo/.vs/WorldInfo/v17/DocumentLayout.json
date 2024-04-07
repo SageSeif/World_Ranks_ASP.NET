@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sage\\source\\repos\\WorldInfo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{901C3C5B-FECD-48E8-A60B-704F7D4AF5F5}|WorldInfo\\WorldInfo.csproj|c:\\users\\sage\\source\\repos\\worldinfo\\worldinfo\\pages\\about.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{901C3C5B-FECD-48E8-A60B-704F7D4AF5F5}|WorldInfo\\WorldInfo.csproj|solutionrelative:worldinfo\\pages\\about.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C3C5B-FECD-48E8-A60B-704F7D4AF5F5}|WorldInfo\\WorldInfo.csproj|c:\\users\\sage\\source\\repos\\worldinfo\\worldinfo\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{901C3C5B-FECD-48E8-A60B-704F7D4AF5F5}|WorldInfo\\WorldInfo.csproj|solutionrelative:worldinfo\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C3C5B-FECD-48E8-A60B-704F7D4AF5F5}|WorldInfo\\WorldInfo.csproj|c:\\users\\sage\\source\\repos\\worldinfo\\worldinfo\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{901C3C5B-FECD-48E8-A60B-704F7D4AF5F5}|WorldInfo\\WorldInfo.csproj|solutionrelative:worldinfo\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C3C5B-FECD-48E8-A60B-704F7D4AF5F5}|WorldInfo\\WorldInfo.csproj|c:\\users\\sage\\source\\repos\\worldinfo\\worldinfo\\pages\\about.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901C3C5B-FECD-48E8-A60B-704F7D4AF5F5}|WorldInfo\\WorldInfo.csproj|solutionrelative:worldinfo\\pages\\about.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C3C5B-FECD-48E8-A60B-704F7D4AF5F5}|WorldInfo\\WorldInfo.csproj|c:\\users\\sage\\source\\repos\\worldinfo\\worldinfo\\pages\\countrydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{901C3C5B-FECD-48E8-A60B-704F7D4AF5F5}|WorldInfo\\WorldInfo.csproj|solutionrelative:worldinfo\\pages\\countrydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C3C5B-FECD-48E8-A60B-704F7D4AF5F5}|WorldInfo\\WorldInfo.csproj|c:\\users\\sage\\source\\repos\\worldinfo\\worldinfo\\pages\\countrydetails.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{901C3C5B-FECD-48E8-A60B-704F7D4AF5F5}|WorldInfo\\WorldInfo.csproj|solutionrelative:worldinfo\\pages\\countrydetails.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C3C5B-FECD-48E8-A60B-704F7D4AF5F5}|WorldInfo\\WorldInfo.csproj|c:\\users\\sage\\source\\repos\\worldinfo\\worldinfo\\pages\\countrydetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901C3C5B-FECD-48E8-A60B-704F7D4AF5F5}|WorldInfo\\WorldInfo.csproj|solutionrelative:worldinfo\\pages\\countrydetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C3C5B-FECD-48E8-A60B-704F7D4AF5F5}|WorldInfo\\WorldInfo.csproj|c:\\users\\sage\\source\\repos\\worldinfo\\worldinfo\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{901C3C5B-FECD-48E8-A60B-704F7D4AF5F5}|WorldInfo\\WorldInfo.csproj|solutionrelative:worldinfo\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C3C5B-FECD-48E8-A60B-704F7D4AF5F5}|WorldInfo\\WorldInfo.csproj|c:\\users\\sage\\source\\repos\\worldinfo\\worldinfo\\wwwroot\\css\\font.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{901C3C5B-FECD-48E8-A60B-704F7D4AF5F5}|WorldInfo\\WorldInfo.csproj|solutionrelative:worldinfo\\wwwroot\\css\\font.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CountryDetails.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Sage\\source\\repos\\WorldInfo\\WorldInfo\\Pages\\CountryDetails.cshtml.css",
+              "RelativeDocumentMoniker": "WorldInfo\\Pages\\CountryDetails.cshtml.css",
+              "ToolTip": "C:\\Users\\Sage\\source\\repos\\WorldInfo\\WorldInfo\\Pages\\CountryDetails.cshtml.css",
+              "RelativeToolTip": "WorldInfo\\Pages\\CountryDetails.cshtml.css",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAgwGAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-05T21:25:00.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CountryDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sage\\source\\repos\\WorldInfo\\WorldInfo\\Pages\\CountryDetails.cshtml",
+              "RelativeDocumentMoniker": "WorldInfo\\Pages\\CountryDetails.cshtml",
+              "ToolTip": "C:\\Users\\Sage\\source\\repos\\WorldInfo\\WorldInfo\\Pages\\CountryDetails.cshtml",
+              "RelativeToolTip": "WorldInfo\\Pages\\CountryDetails.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T01:40:38.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CountryDetails.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Sage\\source\\repos\\WorldInfo\\WorldInfo\\Pages\\CountryDetails.cshtml.cs",
+              "RelativeDocumentMoniker": "WorldInfo\\Pages\\CountryDetails.cshtml.cs",
+              "ToolTip": "C:\\Users\\Sage\\source\\repos\\WorldInfo\\WorldInfo\\Pages\\CountryDetails.cshtml.cs",
+              "RelativeToolTip": "WorldInfo\\Pages\\CountryDetails.cshtml.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAwwFQAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T01:42:00.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Font.css",
+              "DocumentMoniker": "C:\\Users\\Sage\\source\\repos\\WorldInfo\\WorldInfo\\wwwroot\\css\\Font.css",
+              "RelativeDocumentMoniker": "WorldInfo\\wwwroot\\css\\Font.css",
+              "ToolTip": "C:\\Users\\Sage\\source\\repos\\WorldInfo\\WorldInfo\\wwwroot\\css\\Font.css",
+              "RelativeToolTip": "WorldInfo\\wwwroot\\css\\Font.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-04T18:12:59.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sage\\source\\repos\\WorldInfo\\WorldInfo\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WorldInfo\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sage\\source\\repos\\WorldInfo\\WorldInfo\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WorldInfo\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T16:27:47.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Sage\\source\\repos\\WorldInfo\\WorldInfo\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WorldInfo\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Sage\\source\\repos\\WorldInfo\\WorldInfo\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WorldInfo\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-04T00:42:02.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Sage\\source\\repos\\WorldInfo\\WorldInfo\\Pages\\About.cshtml.cs",
+              "RelativeDocumentMoniker": "WorldInfo\\Pages\\About.cshtml.cs",
+              "ToolTip": "C:\\Users\\Sage\\source\\repos\\WorldInfo\\WorldInfo\\Pages\\About.cshtml.cs",
+              "RelativeToolTip": "WorldInfo\\Pages\\About.cshtml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwEoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:20:28.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sage\\source\\repos\\WorldInfo\\WorldInfo\\Pages\\About.cshtml",
+              "RelativeDocumentMoniker": "WorldInfo\\Pages\\About.cshtml",
+              "ToolTip": "C:\\Users\\Sage\\source\\repos\\WorldInfo\\WorldInfo\\Pages\\About.cshtml",
+              "RelativeToolTip": "WorldInfo\\Pages\\About.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T13:58:19.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Sage\\source\\repos\\WorldInfo\\WorldInfo\\Pages\\About.cshtml.css",
+              "RelativeDocumentMoniker": "WorldInfo\\Pages\\About.cshtml.css",
+              "ToolTip": "C:\\Users\\Sage\\source\\repos\\WorldInfo\\WorldInfo\\Pages\\About.cshtml.css",
+              "RelativeToolTip": "WorldInfo\\Pages\\About.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-04T00:40:52.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

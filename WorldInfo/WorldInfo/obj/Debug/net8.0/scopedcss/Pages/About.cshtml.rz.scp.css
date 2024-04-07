@@ -1,0 +1,151 @@
+p[b-qd9fxgbmeo] {
+    color: green;
+}
+
+body[b-qd9fxgbmeo] {
+    background-color: #252329;
+}
+
+.CountryStyling[b-qd9fxgbmeo] {
+    display: flex;
+    padding: 20px;
+    text-align: center;
+    background-color: var(--background-color-light);
+    border-radius: 8px;
+    margin-bottom: 16px;
+    box-shadow: var(--box-shadow);
+    font-weight: 500;
+    transition: transform 200ms ease-in-out, box-shadow 200ms ease-in-out;
+    color: aliceblue;
+}
+
+ul[b-qd9fxgbmeo] {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    align-content: center;
+}
+
+li[b-qd9fxgbmeo] {
+    align-content: center;
+}
+
+/* Set a fixed height for the container */
+.scrollable-list[b-qd9fxgbmeo] {
+    max-height: 65vh; /* Adjust the height as needed */
+    overflow-y: scroll; /* Enable vertical scrolling */
+    border: 1px solid #0000; /* Optional: Add border for visual clarity */
+}
+
+    /* Custom scrollbar styling */
+    .scrollable-list[b-qd9fxgbmeo]::-webkit-scrollbar {
+        width: 0rem;
+        border-radius: 0rem;
+    }
+
+    .scrollable-list[b-qd9fxgbmeo]::-webkit-scrollbar-thumb {
+        border-radius: 0.25rem;
+        background-color: gray;
+    }
+
+.heading[b-qd9fxgbmeo] {
+    display: flex;
+}
+
+.heading_flag[b-qd9fxgbmeo] {
+    flex: 1;
+    padding: 20px;
+    color: #404040;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-color: #236d8a;
+    box-shadow: green;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background: rgba(0, 151, 19, 0);
+    font-family: "Noto Sans", sans-serif;
+    font-size: 18pt;
+}
+
+.heading_name[b-qd9fxgbmeo], .heading_population[b-qd9fxgbmeo], .heading_area[b-qd9fxgbmeo] {
+    flex: 4;
+    padding: 20px;
+    color: #404040;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-color: #236d8a;
+    box-shadow: green;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background: rgba(0, 151, 19, 0);
+    font-family: "Noto Sans", sans-serif;
+    font-size: 18pt;
+}
+
+.heading_name[b-qd9fxgbmeo] {
+    margin-left: 0px;
+}
+
+
+.example[b-qd9fxgbmeo] {
+}
+
+.CountryFlag[b-qd9fxgbmeo] {
+    width: 100px;
+    height: 50px;
+}
+
+.Countryrow[b-qd9fxgbmeo] {
+    display: flex;
+    padding: 20px;
+    text-align: center;
+    background-color: #236d8a;
+    border-radius: 8px;
+    margin-bottom: 16px;
+    font-weight: 500;
+    transition: transform 200ms ease-in-out, box-shadow 200ms ease-in-out;
+    margin-top: 5px;
+    width: 100%;
+    box-shadow: 0 1px 3px rgb(0, 0, 0);
+}
+
+    .Countryrow:hover[b-qd9fxgbmeo] {
+        transform: translateY(-4px);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+
+.CountryName[b-qd9fxgbmeo], .CountryArea[b-qd9fxgbmeo], .CountryPopulation[b-qd9fxgbmeo] {
+    flex: 4;
+    text-align: center;
+    color: white;
+    font-size: 18pt;
+    justify-content: center;
+}
+
+
+
+.CountryFlagContainer[b-qd9fxgbmeo] {
+    flex: 1;
+}
+
+.MainHeader[b-qd9fxgbmeo] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 32px;
+    margin-top: 20px;
+}
+
+a[b-qd9fxgbmeo] {
+    text-decoration: none;
+    cursor: default;
+}
