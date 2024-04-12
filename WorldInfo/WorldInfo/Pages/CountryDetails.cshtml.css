@@ -150,3 +150,8 @@
 .backHome {
     cursor: default;
 }
+
+.No_Border_Countries {
+    color: aliceblue;
+    margin-left: 2px;
+}

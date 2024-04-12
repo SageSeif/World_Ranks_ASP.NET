@@ -4,7 +4,7 @@
 }
 
 <div class="MainHeader">
-    <a class="backHome" href="/About">
+    <a class="backHome" href="/">
     <svg width="350"
          height="50"
          viewBox="0 0 175 24"
@@ -68,26 +68,42 @@
                 </div>
             </div>
 
-            <div class="Border_Row">
-                <div class="Detail_Label">
-                    Neighbouring Countries
-                </div>
-            </div>
+            
 
-            <div class="Borders_All">
+            
 
                    @if (Model.CountryData.Borders.Count > 0)
                    {
-                    @{
+                       
+                    
                            var borders = Model.CountryData.Borders;
+                       if (Model.CountryData.Borders.Count == 1 && Model.CountryData.Borders[0].StartsWith("This "))
+                       {
+                    <div class="Border_Row">
+                        <div class="Detail_Label">
+                            Neighbouring Countries
+                        </div>
+                        <div class="Detail_Value">
+                            @Model.CountryData.Borders[0]
+                        </div>
+                    </div>
+                           
                        }
-                       @for (int i = 0; i < borders.Count; i++)
-                            {
+                       else
+                       {
+                    <div class="Border_Row">
+                        <div class="Detail_Label">
+                            Neighbouring Countries
+                        </div>
+                    </div>
+                        <div class="Borders_All">
+                        @for (int i = 0; i < borders.Count; i++)
+                        {
 
                             if (borders[i].StartsWith("http"))
                             {
                                 var nextIndex = (i + 1) % borders.Count;
-                                var nextBorder = borders[nextIndex];
+                                var nextBorder = borders[nextIndex] + "?fullText=true";
                                 <a href="CountryDetails?name=@nextBorder">
                                     <div class="details_panel_borders_country">
                                         <img class="BorderImg" src="@borders[i]" title="@borders[i]" />
@@ -102,8 +118,10 @@
                             }
 
                         }
+                        </div>
                    }
-        </div>
+            }
+        
     </div>
 </div>
 
